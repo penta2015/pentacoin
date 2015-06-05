@@ -1,0 +1,9 @@
+Building Pentacoin
+
+See doc/readme-qt.rst for instructions on building Pentacoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Pentacoin.
+
+See doc/build-*.txt for instructions on building Pentacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Pentacoin.
